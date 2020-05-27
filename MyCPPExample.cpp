@@ -5,5 +5,5 @@
 
 int main()
 {
-    std::cout << "This is a message on a new line\n";
+    std::cout << "This message is being changed to something else for nefarious purposes\n";
 }
